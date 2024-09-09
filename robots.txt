@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://menelicti.github.io/sitemap.html.gz
+Sitemap: https://menelicti.github.io/app/sitemap.html.gz
+Sitemap: https://menelicti.github.io/assets/sitemap.html.gz
+Sitemap: https://menelicti.github.io/css/sitemap.html.gz
+Sitemap: https://menelicti.github.io/includes/sitemap.html.gz
+Sitemap: https://menelicti.github.io/item/sitemap.html.gz
+Sitemap: https://menelicti.github.io/src/sitemap.html.gz
